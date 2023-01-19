@@ -1,0 +1,7 @@
+        Kod Açıklamaları ve Senaryo Eklentileri.
+
+    benim senaryomda ödül törenine katılacak filmler oyuncular ve yönetmenler olacak ve bunların bir kısmı sadece ödül
+    alabilecekler. Filimlerde ödül alamayan yönetmenler yada oyuncular olabilir yada ödül alamayan
+    filmlerde ödüllü yönetmen ve oyuncular olabilir. Bir filmin bir kategorisi olabilir
+
+    metodlarda ödül alamayanlar için de metodlar tanımladım
